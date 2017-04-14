@@ -1,6 +1,6 @@
 {
-  "name": "node-excel-export",
-  "version": "1.4.1",
+  "name": "node-excel-export-meteor",
+  "version": "1.4.2",
   "description": "Node-Excel-Export",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andreyan-andreev/node-excel-export.git"
+    "url": "git+https://github.com/praveenkoka/node-excel-export.git"
   },
   "keywords": [
     "excel"
